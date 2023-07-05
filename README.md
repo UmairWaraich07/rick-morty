@@ -48,10 +48,6 @@ To get a local copy of the project up and running on your machine, follow these 
 8. Open your browser and visit `http://localhost:3000` to see the application running locally.
 
 
-   
-
-
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the Rick & Morty Wiki project, please follow these steps:
@@ -63,3 +59,4 @@ Contributions are welcome! If you'd like to contribute to the Rick & Morty Wiki 
 5. Submit a pull request with a detailed description of your changes.
 
 
+You're all set! If you have any more questions or need further assistance, feel free to ask. Happy coding!
